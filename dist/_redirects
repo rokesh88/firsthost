@@ -1,6 +1,0 @@
-/*    /index.html   200
-
-# Optional: preserve known asset paths
-/assets/*   /assets/:splat   200
-/favicon.svg  /favicon.svg  200
-/icons.svg  /icons.svg  200
